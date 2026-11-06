@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Do Lifecycle-Specific Explanations Change the Decision? Calibrating SHAP and LIME Driver Rankings Against Refit Noise and Customer Mix in Churn Models"
+type: software
+authors:
+  - family-names: "Khan"
+    given-names: "Hanaa Parvez"
+repository-code: "https://github.com/hpk300494/churn-xai-lifecycle-stage"
+license: MIT
+date-released: "2026-11-05"
